@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "CSP Utils: Format JSON",
+        "command": "format_json"
+    },
+    {
+        "caption": "CSP Utils: Format R",
+        "command": "format_rcode"
+    }
+]
